@@ -20,7 +20,7 @@ function setup() {
 
 function modelLoaded() {
   console.log("Model Loaded!")
-  status = true;
+  status = "true";
 }
 
 function gotResult(error, results) {
